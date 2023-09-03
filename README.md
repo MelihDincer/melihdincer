@@ -2,7 +2,7 @@
 <h3 align="center">.NET Web Developer</h3>
 <br>
 
-<p><img align="right" style="height:410px; width:100%" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" alt="" /></p>
+<p><img align="right" style="" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" alt="" /></p>
 <br>
 
 <p>⚡ I’m currently learning .Net Development </p>
