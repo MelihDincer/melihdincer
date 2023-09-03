@@ -7,6 +7,9 @@
 <p>⚡ I’m currently learning .Net Development </p>
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=melihdincer&icon=5&color=1)](https://visitcount.itsvg.in)
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melih-dincer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih-dincer" height="30" width="40" /></a>
@@ -25,6 +28,6 @@
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=melihdincer&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
