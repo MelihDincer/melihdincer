@@ -1,8 +1,7 @@
+![img](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
+
 <h1 align="center">Hi 👋, I'm Melih Dinçer</h1>
 <h3 align="center">.NET Web Developer</h3>
-<br>
-
-<p><img align="right" style="" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" alt="" /></p>
 <br>
 
 <p>⚡ I’m currently learning .Net Development </p>
@@ -10,7 +9,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=melihdincer&icon=5&color=1)](https://visitcount.itsvg.in)
 <br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
