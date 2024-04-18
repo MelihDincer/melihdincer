@@ -1,5 +1,5 @@
 
-![logo-color](https://github.com/MelihDincer/melihdincer/assets/115299123/fc23d0c4-7ca3-484a-8dab-224b2dd277f0)
+![melih-diner-high-resolution-logo](https://github.com/MelihDincer/melihdincer/assets/115299123/2b4445c4-a5a3-450a-b34a-8ae19839a88c)
 
 <div align="center">
  <a href="https://github.com/melihdincer">
