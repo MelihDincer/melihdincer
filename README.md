@@ -1,5 +1,5 @@
 
-![melih-diner-high-resolution-logo](https://github.com/MelihDincer/melihdincer/assets/115299123/2b4445c4-a5a3-450a-b34a-8ae19839a88c)
+![melih-diner-high-resolution-logo (1)](https://github.com/MelihDincer/melihdincer/assets/115299123/8f2ef233-2d0f-4326-987c-6f68dd727459)
 
 <div align="center">
  <a href="https://github.com/melihdincer">
