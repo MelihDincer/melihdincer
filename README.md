@@ -1,4 +1,5 @@
 
+![logo-color](https://github.com/MelihDincer/melihdincer/assets/115299123/0f6f3fe7-347c-474c-b392-74b76372ccc8)
 
 <div align="center">
  <a href="https://github.com/melihdincer">
