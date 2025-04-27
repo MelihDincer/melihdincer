@@ -2,9 +2,7 @@
 ![melih-diner-high-resolution-logo (1)](https://github.com/MelihDincer/melihdincer/assets/115299123/0c7a7fbf-8a01-448d-a916-17fe63f4c871)
 
 <div align="center">
- <a href="https://github.com/melihdincer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Melih Dinçer+%e2%9c%a8;%f0%9f%93%9a+Full+Stack+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=500&height=80&lines=%F0%9F%91%8B+Welcome+to+My+Profile++%E2%98%95+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%9A%80;%F0%9F%9B%A0%EF%B8%8F+Continuously+Expanding+Expertise+in+.NET+and+React" alt="Typing SVG" /></a>
 </div>
 <br>
 
