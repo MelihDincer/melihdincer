@@ -16,8 +16,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,bootstrap,js,jquery,ts,react,vite,dotnet,sqlite,postgres,mysql,mongodb,docker,redis,visualstudio,vscode,postman" />
 </p>
-<br>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=melihdincer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
