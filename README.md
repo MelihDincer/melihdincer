@@ -23,9 +23,25 @@
 
 <br>
 
-<div align="center" style="width:100%;">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6" style="max-width:100%; height:auto;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <!-- Card 1: GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=melihdincer&theme=radical" width="300"/>
+  </div>
+
+  <!-- Card 2: Most Used Languages -->
+  <div>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&langs_count=6" width="300"/>
+  </div>
+
+  <!-- Card 3: Streak Stats -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihdincer&theme=radical" width="300"/>
+  </div>
+
 </div>
+
 
 
 
