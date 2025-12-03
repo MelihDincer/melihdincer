@@ -17,10 +17,8 @@
   <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,bootstrap,js,jquery,ts,react,vite,dotnet,sqlite,postgres,mysql,mongodb,docker,redis,visualstudio,vscode,postman" />
 </p>
 
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=melihdincer&theme=radical" width="300"/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&langs_count=6" width="300"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=melihdincer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 
@@ -32,7 +30,8 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
    </td>
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6" width="400"/>
+
   </td>
  </tr>
 </table>
