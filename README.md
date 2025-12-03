@@ -23,29 +23,10 @@
 
 <br>
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <!-- Card 1: GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=melihdincer&theme=radical" width="250"/>
-  </div>
-
-  <!-- Card 2: Most Used Languages -->
-  <div>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&langs_count=6" width="250"/>
-  </div>
-
-  <!-- Card 3: Yeni Grafik 1 (Örnek: Streak Stats) -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihdincer&theme=radical" width="250"/>
-  </div>
-
-  <!-- Card 4: Yeni Grafik 2 (Örnek: Visit Count) -->
-  <div>
-    <img src="https://visitcount.itsvg.in/api?id=melihdincer&icon=5&color=1" width="250"/>
-  </div>
-
+<div align="center" style="width:100%;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6" style="max-width:100%; height:auto;">
 </div>
+
 
 
 
