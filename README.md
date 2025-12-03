@@ -17,8 +17,11 @@
   <img src="https://skillicons.dev/icons?i=cs,html,css,tailwind,bootstrap,js,jquery,ts,react,vite,dotnet,sqlite,postgres,mysql,mongodb,docker,redis,visualstudio,vscode,postman" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=melihdincer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=melihdincer&theme=radical" width="300"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&langs_count=6" width="300"/>
+</div>
+
 <br>
 
 <table border="0" align="center">
