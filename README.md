@@ -29,8 +29,9 @@
  <hr>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
    </td>
+    
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6" width="400"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=melihdincer&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
 
   </td>
  </tr>
