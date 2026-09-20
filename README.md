@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Melih Dinçer
+# Melih Dinçer
 
-### Software Developer · Computer Engineer · .NET / ASP.NET Core
+### Software Developer · .NET / ASP.NET Core · Enterprise Web Applications
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+Enterprise+Web+Applications;C%23+%7C+.NET+%7C+ASP.NET+Core;Expanding+Full-Stack+Skills+with+React+%26+TypeScript"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Computer+Engineer+%26+Software+Developer;Building+Enterprise+Web+Applications;C%23+%7C+.NET+%7C+ASP.NET+Core;Expanding+Full-Stack+Skills+with+React+%26+TypeScript"
     alt="Typing SVG"
   />
 </a>
@@ -16,9 +16,11 @@
 <a href="https://www.linkedin.com/in/melih-dincer/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://melihdincer.com.tr">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=MelihDincer&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
 
 </div>
