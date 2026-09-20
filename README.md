@@ -1,7 +1,4 @@
 <div align="center">
-
-# Melih Dinçer
-
 ### Software Developer · .NET / ASP.NET Core · Enterprise Web Applications
 
 <a href="https://git.io/typing-svg">
